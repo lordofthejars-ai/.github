@@ -26,4 +26,6 @@ This is the list of projects, as I have presented them. However, each repository
 
 * **Mission Impossible** https://github.com/lordofthejars-ai/mission-impossible-rag: Example that integrates Quarkus and Docling and some advanced RAG techniques like Preserve encryption.
 
-* 
+* **Quarkus-LangChain4j** https://github.com/lordofthejars-ai/quarkus-langchain-examples: Simple examples showing the integration between Quarkus and LangChain4j.
+
+* **Theme Park** https://github.com/lordofthejars-ai/theme-park-bot: Full example implementing a ChatBot for a theme park. It shows features like RAG, tooling, MongoDB Geocoding
