@@ -16,7 +16,7 @@ This is the list of projects, as I have presented them. However, each repository
 
 * **Recommendation with Vectors** (https://github.com/lordofthejars-ai/recommendation-with-vectors): Example showing how to use vector embeddings for implementing a recommendation engine.
 
-* **Second Hand Shop** (https://github.com/lordofthejars-ai/second-hand-shop):: Example that shows describing capabilities of Gen AI. You upload a product image, and the system fills a form with the name, description, ...
+* **Second Hand Shop** (https://github.com/lordofthejars-ai/second-hand-shop): Example that shows describing capabilities of Gen AI. You upload a product image, and the system fills a form with the name, description, ...
 
 * **Autonomous Agent Bot** (https://github.com/lordofthejars-ai/autonomous-agent-bot): Twitter Clone where a Bot monitors messages and reacts depending on the comments.
 
@@ -28,4 +28,6 @@ This is the list of projects, as I have presented them. However, each repository
 
 * **Quarkus-LangChain4j** https://github.com/lordofthejars-ai/quarkus-langchain-examples: Simple examples showing the integration between Quarkus and LangChain4j.
 
-* **Theme Park** https://github.com/lordofthejars-ai/theme-park-bot: Full example implementing a ChatBot for a theme park. It shows features like RAG, tooling, MongoDB Geocoding
+* **Theme Park** https://github.com/lordofthejars-ai/theme-park-bot: Full example implementing a ChatBot for a theme park. It shows features like RAG, tooling, MongoDB Geocoding.
+
+* **AI Trust Demos** https://github.com/lordofthejars-ai/ai-trust-demos: Examples of attacks you might receive in AI applications.
