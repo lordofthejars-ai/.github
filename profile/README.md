@@ -31,3 +31,5 @@ This is the list of projects, as I have presented them. However, each repository
 * **Theme Park** https://github.com/lordofthejars-ai/theme-park-bot: Full example implementing a ChatBot for a theme park. It shows features like RAG, tooling, MongoDB Geocoding.
 
 * **AI Trust Demos** https://github.com/lordofthejars-ai/ai-trust-demos: Examples of attacks you might receive in AI applications.
+
+* **AI With Embeddings** https://github.com/lordofthejars-ai/ai-with-embeddings: All the magic you can do with Vector Embeddings without requiring LLMs or big computational resources.
